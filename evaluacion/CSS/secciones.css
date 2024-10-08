@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+ul.concept-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.concept-list li {
+    margin: 10px 0;
+}
+
+ul.concept-list a {
+    text-decoration: none;
+    color: #007BFF;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+ul.concept-list a:hover {
+    color: #0056b3;
+}
+
+.definition {
+    display: none;
+    background-color:#0056b3
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+ul.concept-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.concept-list li {
+    margin: 10px 0;
+}
+
+ul.concept-list a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+ul.concept-list a:hover {
+    color: #0056b3;
+}
+
+.definition {
+    display: none;
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.back-to-top {
+    margin-top: 10px;
+    text-align: left;
+}
+
+.back-to-top a {
+    color: #007BFF;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.back-to-top a:hover {
+    color: #0056b3;
+}
+
+.concept-list {
+    list-style-type: decimal; /* Cambia a números decimales */
+    padding-left: 20px; /* Indenta la lista */
+}
+
+.definition {
+    /* ... (resto de tus estilos para .definition) */
+    margin-top: 10px; /* Reduce el margen superior */
+}
